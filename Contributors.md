@@ -1,4 +1,4 @@
- Format - ## [Name](github link)
+ Format - ##[Name](github link)
 ## [Sudipto Ghosh](https://github.com/pydevsg)
 ## [Purbayan Kar](https://github.com/purbayankar)
 ## [Aditya Das](https://github.com/Aditya_Das2101)
