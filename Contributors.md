@@ -1,3 +1,8 @@
 ## [Name](github link)
 ## [Sudipto Ghosh](https://github.com/pydevsg)
+## [Aditya Das](https://github.com/Aditya_Das2101)
+## [Moumita Pal](https://github.com/srija23496)
+## [Tarpan Bhattacharya](https://github.com/pHANTOM-kudos)
+## [Syed Modassir Ali](https://github.com/gr33nm0nk2802)
 ## [Mohit Sigchi](https://github.com/Sigchi98)
+
