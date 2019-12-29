@@ -7,3 +7,4 @@
 ## [Syed Modassir Ali](https://github.com/gr33nm0nk2802)
 ## [Debanjan Sarkar](https://github.com/debanjansarkar)
 ## [Arijit Ghosh](https://github.com/arijitghosh10)
+## [Rishabh Dhara](https://github.com/rishabh-dhara)
